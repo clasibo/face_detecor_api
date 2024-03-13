@@ -1,4 +1,4 @@
-Thw server made with node.js,  expres.js framewor and npm packages: cors and knex. <br><br>
+The server made with node.js,  expres.js framewor and npm packages: cors and knex. <br><br>
 
 
 const express = require('express');<br>
