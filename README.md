@@ -21,8 +21,8 @@ const db = knex({<br>
     connection: {<br>
       host : '127.0.0.1',<br>
       port : 5432,<br>
-      user : 'postgres',<br>
-      password : 'test',<br>
+      user : '',<br>
+      password : '',<br>
       database : 'face_detector_db'<br>
     }  <br>
   });<br><br>
