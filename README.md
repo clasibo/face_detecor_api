@@ -1,4 +1,5 @@
-The server made with node.js,  expres.js framewor and npm packages: cors and knex. <br><br>
+# The server made with node.js, expres.js framework and npm packages: cors and knex. <br><br>
+# The upp was deployed with Heroku and can be found here: https://face-detector-react-app-24297769124e.herokuapp.com/ <br>
 
 
 const express = require('express');<br>
